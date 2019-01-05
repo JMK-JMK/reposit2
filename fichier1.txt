@@ -1,2 +1,2 @@
 fichier1
-git status
+git status 2
